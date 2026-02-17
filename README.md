@@ -18,8 +18,8 @@ Hands-on EDR case study completed in an Oak Academy training lab environment.
 - Live Discover Query Library checks (network-active processes + startup registry)
 - Reporting (Live Discover notes + Weekly Web Control report)
 
-## Deck
-- **(EDR_Case_Study_SophosCentral.pdf)** (in this repository)
+# Deck
+- [EDR_Case_Study_SophosCentral.pdf](EDR_Case_Study_SophosCentral.pdf)
 
 ## Notes
 All sensitive details are redacted. This is a controlled lab case study for learning and practice.
