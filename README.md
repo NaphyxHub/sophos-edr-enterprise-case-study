@@ -19,7 +19,7 @@ Hands-on EDR case study completed in an Oak Academy training lab environment.
 - Reporting (Live Discover notes + Weekly Web Control report)
 
 ## Deck
-- **Enterprise_EDR_Case_Study_SophosCentral.pdf** (in this repository)
+- **(EDR_Case_Study_SophosCentral.pdf)** (in this repository)
 
 ## Notes
 All sensitive details are redacted. This is a controlled lab case study for learning and practice.
