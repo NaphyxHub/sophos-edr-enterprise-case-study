@@ -18,6 +18,17 @@ Hands-on EDR case study completed in an Oak Academy training lab environment.
 - Live Discover Query Library checks (network-active processes + startup registry)
 - Reporting (Live Discover notes + Weekly Web Control report)
 
+## Example Investigation Thought Process
+
+During the EICAR simulation and Live Discover checks, I focused on:
+
+- Reviewing process names and parent-child relationships
+- Checking unusual network-active processes
+- Identifying non-malicious but uncommon startup entries
+- Comparing findings with expected baseline behavior
+
+This helped me better understand how detection visibility supports response decisions.
+
 # Deck
 - [EDR_Case_Study_SophosCentral.pdf](EDR_Case_Study_SophosCentral.pdf)
 
